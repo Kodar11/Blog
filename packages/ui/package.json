@@ -2,8 +2,7 @@
   "name": "@repo/ui",
   "version": "0.0.0",
   "exports": {
-    "./counter": "./components/counter.ts",
-    "./header": "./components/header.ts",
+    "./zod": "./components/zod.ts",
     "./setup-counter": "./utils/counter.ts"
   },
   "license": "MIT",
